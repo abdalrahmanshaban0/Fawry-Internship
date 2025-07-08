@@ -17,3 +17,5 @@ A simple Java console-based e-commerce system supporting product types, shopping
   - Empty cart on checkout
 - Clean receipts with subtotal, shipping, amount and balance
 - Some test coverage via `Main.java`
+## Screenshot
+![Task0](https://github.com/user-attachments/assets/cb5a6881-5834-4b62-b6cc-8cc8061cadae)
