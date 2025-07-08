@@ -14,3 +14,4 @@ A simple Java-based bookstore system supporting multiple book types, stock manag
 - Singleton `ShippingService` and `MailService` simulate external actions
 
 ## Screenshot
+![Task1](https://github.com/user-attachments/assets/c4b54f5e-4480-45ec-b7ff-c588e555350e)
